@@ -10,7 +10,7 @@
   ---
 
 ### Hey!
-:woman_technologist: I'm a full-stack dev still learning a lot.
+:woman_technologist: I'm a full-stack solo dev still learning a lot.
 
 #### Technologies I Like And Use:
   <div id="technologies">
