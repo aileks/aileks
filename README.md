@@ -2,15 +2,9 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/aaliyah-harper-1473312b0">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:aeverly14@pm.me">
-      <img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://aileks.dev">
-      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/>
-    </a>
+    <a href="www.linkedin.com/in/aaliyah-harper-1473312b0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="mailto:aeverly14@pm.me"><img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="https://aileks.dev"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/></a>
   </div>
 
   ---
