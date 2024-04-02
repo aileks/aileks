@@ -8,6 +8,9 @@
     <a href="mailto:aeverly14@pm.me">
       <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
     </a>
+    <a href="mailto:aeverly14@pm.me">
+      <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/>
+    </a>
   </div>
 
   ---
