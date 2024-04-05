@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ZFRJbkRKJuUPheDykE/giphy.gif" width="200"/>
 
   <div id="badges">
     <a href="www.linkedin.com/in/aaliyah-harper-1473312b0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
