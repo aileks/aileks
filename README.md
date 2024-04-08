@@ -9,7 +9,7 @@
 
   ---
 
-### Hey!
+### Hello There!
 :woman_technologist: I'm a full-stack solo dev still learning a lot.
 
 #### Technologies I Like And Use:
