@@ -12,6 +12,12 @@
 ### Hello There!
 :woman_technologist: I'm a full-stack solo dev still learning a lot.
 
+#### Environment Info
+- Void Linux
+- Tmux
+- ZSH
+- i3-gaps/Sway
+
 #### Technologies I Like And Use:
   <div id="technologies">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
