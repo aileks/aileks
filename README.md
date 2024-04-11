@@ -13,10 +13,7 @@
 :woman_technologist: I'm a full-stack solo dev still learning a lot.
 
 #### Environment Info
-- Void Linux
-- Tmux
-- ZSH
-- i3-gaps/Sway
+  Void Linux - Tmux - ZSH - i3-gaps/Sway
 
 #### Technologies I Like And Use:
   <div id="technologies">
