@@ -10,7 +10,7 @@
   ---
 
 ### Hello There!
-:woman_technologist: I'm a full-stack solo dev still learning a lot.
+:woman_technologist: I'm a full-stack hobbyist still learning a lot.
 
 #### Environment Info
   Linux - Tmux - ZSH - i3wm - Neovim
