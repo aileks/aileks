@@ -10,7 +10,7 @@
   ---
 
 ### Hello There!
-:woman_technologist: I'm a full-stack hobbyist still learning a lot.
+:woman_technologist: I'm a full-stack sol dev still learning a lot.
 
 #### Dev Environment Info
   · <ins>Current OS</ins>: Pop!_OS<br/>
