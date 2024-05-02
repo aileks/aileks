@@ -12,8 +12,11 @@
 ### Hello There!
 :woman_technologist: I'm a full-stack hobbyist still learning a lot.
 
-#### Environment Info
-  Linux - Tmux - ZSH - i3wm - Neovim
+#### Dev Environment Info
+    - Current OS: Pop!_OS
+    - Shell: ZSH with Tmux
+    - Desktop: i3wm
+    - Editor: Neovim with a side of Emacs
 
 #### Technologies I Like And Use:
   <div id="technologies">
@@ -35,7 +38,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" title="Emacs" alt="Emacs" width="40" height="40"/>
   </div>
 </div>
 
