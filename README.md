@@ -7,7 +7,7 @@
     <a href="https://aileks.dev"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/></a>
   </div>
 
-  ---
+---
 
 ### Hello There!
 :woman_technologist: I'm a full-stack sol dev still learning a lot.
@@ -17,6 +17,8 @@
   · <ins>Shell</ins>: ZSH with Tmux<br/>
   · <ins>Desktop</ins>: i3wm<br/>
   · <ins>Editor</ins>: Neovim (with a side of Emacs)
+  
+---
 
 #### Technologies I Like And Use:
   <div id="technologies">
