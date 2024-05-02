@@ -13,10 +13,10 @@
 :woman_technologist: I'm a full-stack hobbyist still learning a lot.
 
 #### Dev Environment Info
-    - Current OS: Pop!_OS
-    - Shell: ZSH with Tmux
-    - Desktop: i3wm
-    - Editor: Neovim with a side of Emacs
+- Current OS: Pop!_OS
+- Shell: ZSH with Tmux
+- Desktop: i3wm
+- Editor: Neovim with a side of Emacs
 
 #### Technologies I Like And Use:
   <div id="technologies">
