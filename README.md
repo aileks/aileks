@@ -10,7 +10,7 @@
 ---
 
 ### Hello There!
-:woman_technologist: I'm a full-stack sol dev still learning a lot.
+:woman_technologist: I'm a full-stack solo dev still learning a lot.
 
 #### Dev Environment Info
   · <ins>Current OS</ins>: Xubuntu 24.04<br/>
