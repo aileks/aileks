@@ -13,7 +13,7 @@
 :woman_technologist: I'm a full-stack sol dev still learning a lot.
 
 #### Dev Environment Info
-  · <ins>Current OS</ins>: Pop!_OS<br/>
+  · <ins>Current OS</ins>: Xubuntu 24.04<br/>
   · <ins>Shell</ins>: ZSH with Tmux<br/>
   · <ins>Desktop</ins>: i3wm<br/>
   · <ins>Editor</ins>: Neovim (with a side of Emacs)
