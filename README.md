@@ -16,7 +16,7 @@
   · <ins>Current OS</ins>: Arch (btw)<br/>
   · <ins>Shell</ins>: ZSH with Tmux<br/>
   · <ins>Desktop</ins>: i3wm<br/>
-  · <ins>Editor</ins>: Emacs
+  · <ins>Editor</ins>: Emacs<br />
   · <ins>Terminal</ins>: WezTerm/Ghostty
 
 ---
