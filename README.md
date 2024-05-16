@@ -12,13 +12,6 @@
 ### Hello There!
 :woman_technologist: I'm a full-stack solo dev still learning a lot.
 
-#### Dev Environment Info
-  · <ins>Current OS</ins>: Arch (btw)<br/>
-  · <ins>Shell</ins>: ZSH with Tmux<br/>
-  · <ins>Desktop</ins>: i3wm<br/>
-  · <ins>Editor</ins>: Emacs<br />
-  · <ins>Terminal</ins>: WezTerm
-
 ---
 
 #### Technologies I Like And Use:
