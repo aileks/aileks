@@ -9,8 +9,8 @@
 
 ---
 
-### Hello There!
-:woman_technologist: I'm a full-stack solo dev still learning a lot.
+### Hi There!
+:woman_technologist: I'm a full-stack dev getting my reps in. 💪
 
 ---
 
