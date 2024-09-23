@@ -9,8 +9,8 @@
 
 ---
 
-### Hi There!
-:woman_technologist: I'm a full-stack dev getting my reps in. 💪
+### Hey there!
+:woman_technologist: I'm a Full-Stack Web Devolper and Data Science student. 💪
 
 ---
 
