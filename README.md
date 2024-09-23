@@ -10,7 +10,7 @@
 ---
 
 ### Hey there!
-:woman_technologist: I'm a Full-Stack Web Devolper and Data Science student. 💪
+:woman_technologist: I'm a Full-Stack Web Devolper and aspiring Data Scientist. 💪
 
 ---
 
