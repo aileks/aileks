@@ -1,3 +1,9 @@
+<div align="center">
+  "The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey
+</div>
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/N69OwUuuxNO6B9Wag8/giphy.gif" width="400"/>
 
@@ -6,10 +12,6 @@
     <a href="mailto:aeverly14@pm.me"><img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
     <a href="https://aileks.dev/"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/></a>
   </div>
-
----
-
-"The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey
 
 ---
 
