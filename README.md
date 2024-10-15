@@ -24,10 +24,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,bash&perline=4" alt="Languages" />
 
   #### Frameworks & Libraries
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,bootstrap,express,flask,redux,sequelize&perline=5" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,express,flask,redux&perline=4" alt="Frameworks" />
 
   #### Data
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&perline=4" alt="Data" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=4" alt="Data" />
 
   #### Miscellaneous
   <img src="https://skillicons.dev/icons?i=neovim,aws,docker,supabase,postman,git,github,linux&perline=4" alt="Miscellaneous Technologies" />
