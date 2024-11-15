@@ -22,8 +22,13 @@
   #### Frameworks & Libraries
   <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,express,flask,redux&perline=4" alt="Frameworks" />
 
-  #### Data
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=4" alt="Data" />
+  #### SQL
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=4" alt="SQL" />
+  
+  #### Data Sci:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="Numpy" />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
 
   #### Miscellaneous
   <img src="https://skillicons.dev/icons?i=neovim,aws,docker,supabase,postman,git,github,linux&perline=4" alt="Miscellaneous Technologies" />
