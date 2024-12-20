@@ -6,7 +6,7 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/aaliyah-harper/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="mailto:aeverly14@pm.me"><img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
-    <a href="https://aileks.dev/"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site Badge"/></a>
+    <a href="https://aileks.dev/"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
   </div>
 </div>
 
