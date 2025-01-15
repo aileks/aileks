@@ -12,6 +12,12 @@
 
 ---
 
+### Currently Learning
+- [COBOL](img/COBOL.png)
+- JCL
+
+---
+
 <div align="center">
   
   ### Technologies
