@@ -4,8 +4,7 @@
 <a href="mailto:aeverly14@pm.me" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
 <a href="https://aileks.dev/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
 
-### Currently Learning:
-
+#### Currently Learning
 <img src="img/COBOL.png" alt="COBOL" width="60" /> <img src="img/JCL.png" alt="JCL" width="60" />
 
 ### Languages
