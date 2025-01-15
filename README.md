@@ -13,8 +13,9 @@
 ---
 
 ### Currently Learning
-- ![COBOL](img/COBOL.png)
-- ![JCL](img/JCL.png)
+
+<img src="img/COBOL.png" alt="COBOL" width="30">
+<img src="img/JCL.png" alt="JCL" width="30">
 
 ---
 
