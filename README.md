@@ -13,8 +13,8 @@
 ---
 
 ### Currently Learning
-- [COBOL](img/COBOL.png)
-- JCL
+- ![COBOL](img/COBOL.png)
+- ![JCL](img/JCL.png)
 
 ---
 
