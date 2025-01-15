@@ -5,7 +5,7 @@
 <a href="https://aileks.dev/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
 
 #### Currently Learning
-<img src="img/COBOL.png" alt="COBOL" width="60" /> <img src="img/JCL.png" alt="JCL" width="60" />
+<img src="img/COBOL.png" alt="COBOL" width="52" /> <img src="img/JCL.png" alt="JCL" width="52" />
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,bash&perline=4" alt="Languages" />
@@ -18,6 +18,3 @@
   
 ### Data Sci:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-
-### Miscellaneous
-<img src="https://skillicons.dev/icons?i=neovim,aws,docker,supabase,postman,git,github,linux&perline=4" alt="Miscellaneous Technologies" />
