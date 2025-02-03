@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=spring" alt="Learning" />
 
 #### Languages:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,bash,java&perline=4" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,java&perline=4" alt="Languages" />
 
 #### Frameworks & Libraries:
 <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,express,flask,redux&perline=4" alt="Frameworks" />
