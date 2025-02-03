@@ -5,10 +5,10 @@
 <a href="https://aileks.dev/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
 
 #### Currently Learning:
-<img src="img/COBOL.png" alt="COBOL" width="52" /> <img src="img/JCL.png" alt="JCL" width="52" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Learning" />
 
 #### Languages:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,bash&perline=4" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,bash,java&perline=4" alt="Languages" />
 
 #### Frameworks & Libraries:
 <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,express,flask,redux&perline=4" alt="Frameworks" />
