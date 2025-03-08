@@ -5,7 +5,10 @@
 <a href="https://aileks.dev/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
 
 #### Currently Learning:
-<img src="https://skillicons.dev/icons?i=scikitlearn,pytorch" alt="Learning" />
+<span>
+    <img src="https://skillicons.dev/icons?i=elixir,solidjs" alt="Learning" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phoenix/phoenix-original.svg" height=50 width=50 alt=Learning />
+</span>
 
 #### Languages:
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,java&perline=4" alt="Languages" />
