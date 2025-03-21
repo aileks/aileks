@@ -11,13 +11,13 @@
 </span>
 
 #### Languages:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,java&perline=4" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,java&perline=5" alt="Languages" />
 
 #### Frameworks & Libraries:
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,tailwindcss,express,flask,redux&perline=4" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,solidjs,vue,tailwindcss,express,flask,redux&perline=5" alt="Frameworks" />
 
 #### SQL:
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=4" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=5" alt="SQL" />
   
 #### Data Sci:
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
