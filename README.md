@@ -11,16 +11,16 @@ Data scientist and web developer creating interactive, data-driven applications 
 ## Core Skills
 
 ### Primary Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,r,julia" height="60" alt="Primary Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,r,julia" height="50" alt="Primary Languages" />
 
 ### Data Science & Analysis
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="60" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="60" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib" /> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="60" alt="Plotly" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" height="60" alt="tidyverse" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="50" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="50" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" /> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="50" alt="Plotly" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" height="50" alt="tidyverse" /> 
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,express,flask,tailwind" height="60" alt="Web Development" />
+<img src="https://skillicons.dev/icons?i=react,express,flask,tailwind" height="50" alt="Web Development" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,bash" height="60" alt="Tools" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,bash" height="50" alt="Tools" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
 
 ## Currently Exploring
-<img src="https://skillicons.dev/icons?i=elixir,solidjs" height="60" alt="Learning" /> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phoenix/phoenix-original.svg" height="60" alt="Phoenix" />
+<img src="https://skillicons.dev/icons?i=elixir,solidjs" height="50" alt="Learning" /> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phoenix/phoenix-original.svg" height="50" alt="Phoenix" />
