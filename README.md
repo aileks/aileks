@@ -1,23 +1,26 @@
-<p>"The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey</p>
+"The greatest value of a picture is when it forces us to notice what we never expected to see." — John Tukey
 
-<a href="https://www.linkedin.com/in/aaliyah-harper/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:aeverly14@pm.me" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/></a>
-<a href="https://aileks.dev/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=git&logoColor=white" alt="Personal Site Badge"/></a>
+## About Me
 
-#### Currently Learning:
-<span>
-    <img src="https://skillicons.dev/icons?i=elixir,solidjs" alt="Learning" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phoenix/phoenix-original.svg" height=50 width=50 alt=Learning />
-</span>
+Data scientist and web developer creating interactive, data-driven applications that bridge analytical insight with accessible user experiences. Currently working towards an M.S. in Computational Life Sciences.
 
-#### Languages:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,r,php,java&perline=5" alt="Languages" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/aaliyah-harper/)
+[![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aeverly14@pm.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aileks.dev/)
 
-#### Frameworks & Libraries:
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,solidjs,vue,tailwindcss,express,flask,redux&perline=5" alt="Frameworks" />
+## Core Skills
 
-#### SQL:
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,sequelize&perline=5" alt="SQL" />
-  
-#### Data Sci:
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+### Primary Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,r,julia" height="60" alt="Primary Languages" />
+
+### Data Science & Analysis
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="60" alt="Numpy" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="60" alt="Pandas" /> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib" /> <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="60" alt="Plotly" /> <img src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg" height="60" alt="tidyverse" /> 
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,express,flask,tailwind" height="60" alt="Web Development" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,bash" height="60" alt="Tools" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="Jupyter" />
+
+## Currently Exploring
+<img src="https://skillicons.dev/icons?i=elixir,solidjs" height="60" alt="Learning" /> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phoenix/phoenix-original.svg" height="60" alt="Phoenix" />
