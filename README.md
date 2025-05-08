@@ -2,7 +2,7 @@
 
 ## About Me
 
-Data scientist and web developer creating interactive, data-driven applications that bridge analytical insight with accessible user experiences. Currently working towards an M.S. in Computational Life Sciences.
+Data scientist and web developer creating interactive, data-driven applications. Currently working towards an M.S. in Computational Life Sciences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyah-harper/)
 [![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aeverly14@pm.me)
