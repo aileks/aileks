@@ -2,7 +2,7 @@
 
 ## About Me
 
-Data scientist and software engineer creating interactive, data-driven applications. B.S. in Data Science with a concentration in Geographic Information Systems (GIS) from ASU.
+Data scientist and software engineer creating interactive, data-driven applications. B.S. in Data Science with a concentration in Geographic Information Science (GIS) from ASU.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyah-harper/)
 [![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aeverly14@pm.me)
