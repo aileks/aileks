@@ -9,7 +9,7 @@ Data scientist and software engineer creating interactive, data-driven applicati
 [![Portfolio](https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aileks.dev/)
 
 ## Currently Exploring
-<img src="https://skillicons.dev/icons?i=ruby,rails" height="50" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi" height="50" alt="Learning" />
 
 ## Core Skills
 
@@ -26,4 +26,5 @@ Data scientist and software engineer creating interactive, data-driven applicati
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bash,npm" height="50" alt="Tools" /> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
 
 ### Dev Setup
-<img src="https://skillicons.dev/icons?i=apple,anaconda" /> &nbsp;<img height="50" alt="Zed Logo" title="Zed Logo" src="https://github.com/user-attachments/assets/da53100d-3c83-40fc-959c-5f1aa8a2f766" /> &nbsp;<img height="50" alt="ZSH Logo" title="ZSH Logo" src="https://github.com/user-attachments/assets/70e3d488-151a-4111-b342-cb7a9dffa267" />
+<img src="https://skillicons.dev/icons?i=apple,anaconda" /> &nbsp;<img height="50" alt="stable-app-logo 9b5f959f" src="https://github.com/user-attachments/assets/177ceb56-7403-42fd-9638-1821bfa09ec0" />
+ &nbsp;<img height="50" alt="ZSH Logo" title="ZSH Logo" src="https://github.com/user-attachments/assets/70e3d488-151a-4111-b342-cb7a9dffa267" />
