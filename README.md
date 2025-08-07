@@ -14,7 +14,7 @@ Data scientist and software engineer creating interactive, data-driven applicati
 
 ## Dev Environment
 
-<img src="https://skillicons.dev/icons?i=apple,anaconda" /> &nbsp;<img height="50" alt="stable-app-logo 9b5f959f" src="https://github.com/user-attachments/assets/177ceb56-7403-42fd-9638-1821bfa09ec0" />
+<img src="https://skillicons.dev/icons?i=linux,anaconda" /> &nbsp;<img height="50" alt="stable-app-logo 9b5f959f" src="https://github.com/user-attachments/assets/177ceb56-7403-42fd-9638-1821bfa09ec0" />
  &nbsp;<img height="50" alt="ZSH Logo" title="ZSH Logo" src="https://github.com/user-attachments/assets/70e3d488-151a-4111-b342-cb7a9dffa267" />
 
 ## Core Skills
