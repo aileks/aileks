@@ -10,7 +10,7 @@ Data scientist and software engineer creating interactive, data-driven applicati
 
 ## Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi" height="50" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow" height="50" alt="Learning" />
 
 ## Dev Environment
 
