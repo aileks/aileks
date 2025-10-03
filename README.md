@@ -1,12 +1,19 @@
-## About Me
+_"The greatest value of a picture is when it forces us to notice what we never expected to see."_
+
+– John Tukey
+
+---
+
+- 🎓 **Education**: B.S. in Data Science w/ concentration in GIS.
+- 🧘‍♀️ **Focus**: Data Storytelling & Marrative-Driven insights.
+- 🔎 **Unique Perspective**: Background in direct patient care informs a human-centered analytical approach.
+- 📚 **Core Skills**: Statistical Analysis & Data Visualization for uncovering real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyah-harper/)
-[![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aeverly14@pm.me)
+[![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aaliyah@aileks.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aileks.dev/)
 
-Senior year Data Science student focused on translating data into stories. My analytical approach is uniquely informed by a background in direct patient care. What truly motivates me is finding the human narrative within the noise and translating complex findings into a clear and understandable narrative. I specialize in using statistical analysis and data visualization to uncover and present the real-world impact hidden within the numbers.
-
-## Core Competencies
+---
 
 | Category | Technologies |
 | - | - |
