@@ -5,7 +5,7 @@ _"The greatest value of a picture is when it forces us to notice what we never e
 ---
 
 - 🎓 **Education**: B.S. in Data Science w/ concentration in GIS.
-- 🧘‍♀️ **Focus**: Data Storytelling & Marrative-Driven insights.
+- 🧘‍♀️ **Focus**: Data storytelling & Narrative-driven insights.
 - 🔎 **Unique Perspective**: Background in direct patient care informs a human-centered analytical approach.
 - 📚 **Core Skills**: Statistical Analysis & Data Visualization for uncovering real-world impact.
 
