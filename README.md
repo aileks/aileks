@@ -6,8 +6,8 @@ _"The greatest value of a picture is when it forces us to notice what we never e
 
 - 🎓 **Education**: B.S. in Data Science w/ concentration in GIS.
 - 🧘‍♀️ **Focus**: Data storytelling & Narrative-driven insights.
-- 🔎 **Unique Perspective**: Background in direct patient care informs a human-centered analytical approach.
-- 📚 **Core Skills**: Statistical Analysis & Data Visualization for uncovering real-world impact.
+- 🔎 **Unique Perspective**: Background in direct patient care in hospitals and skilled nursing facilities.
+- 📚 **Core Skills**: Statistical analysis & data visualization for uncovering real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaliyah-harper/)
 [![Email](https://img.shields.io/badge/Email-585191?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aaliyah@aileks.dev)
