@@ -4,7 +4,7 @@ _"The greatest value of a picture is when it forces us to notice what we never e
 
 ---
 
-- 🎓 **Education**: B.S. in Data Science w/ concentration in GIS.
+- 🎓 **Education**: B.S. in Data Science from Arizona State University.
 - 🧘‍♀️ **Focus**: Data storytelling & Narrative-driven insights.
 - 🔎 **Unique Perspective**: Background in direct patient care in hospitals and skilled nursing facilities.
 - 📚 **Core Skills**: Statistical analysis & data visualization for uncovering real-world impact.
