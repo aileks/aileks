@@ -14,4 +14,4 @@ Full-stack developer specializing in TypeScript and Java. Skilled in crafting ro
 <img src="https://skillicons.dev/icons?i=java,python,spring,flask,express,postgres" />
 
 ### Tooling
-<img src="https://skillicons.dev/icons?i=apple,pnpm,neovim,docker" />
+<img src="https://skillicons.dev/icons?i=apple,pnpm,neovim,bash,docker" />
