@@ -12,7 +12,7 @@ CS student at Arizona State University. Full-stack developer specializing in Typ
 <img src="https://skillicons.dev/icons?i=html,css,typescript,tailwind,react,nextjs" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=golang,python,spring,flask,express,postgres" />
+<img src="https://skillicons.dev/icons?i=golang,python,flask,express,postgres" />
 
 ### Tooling
 <img src="https://skillicons.dev/icons?i=apple,pnpm,neovim,bash,docker" />
