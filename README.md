@@ -6,7 +6,7 @@
 
 CS student at Arizona State University. Full-stack developer specializing in TypeScript and Go. Skilled in crafting robust APIs and intuitive UX.
 
-## Tech Stack
+## Tech
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,typescript,tailwind,react,nextjs" />
