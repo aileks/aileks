@@ -10,7 +10,7 @@ CS student @ **Arizona State University** | Full-stack developer crafting scalab
 
 - Building full-stack applications with **TypeScript**, **Go**, and **React**
 - Exploring cloud infrastructure & DevOps best practices
-- Contributing to open-source projects between classes
+- Contributing to open-source projects
 
 ## Tech Stack
 
