@@ -31,5 +31,4 @@ CS student @ **Arizona State University** | Builder focused on **systems + backe
 
 <div align="center">
   <i>Always learning, always building</i><br>
-  <sub>Systems-curious backend engineer with a frontend mindset</sub>
 </div>
