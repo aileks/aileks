@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f3f3f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aileks.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaliyah-harper/)
 
-Senior at **Arizona State University**. Focused on building systems and backend software that's performant and reliable.
+Senior at *Arizona State University*. Focused on building systems and backend software that's performant and reliable.
 
 ## Stack
 
