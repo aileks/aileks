@@ -10,15 +10,15 @@ Senior at *Arizona State University*. Focused on building systems and backend so
 
 #### Systems
 
-<img src="https://skillicons.dev/icons?i=zig,c,cpp&perline=12" />
+<img src="https://skillicons.dev/icons?i=zig,c" />
 
 #### Backend
 
-<img src="https://skillicons.dev/icons?i=go,python,flask,postgres&perline=12" />&nbsp;<img src="https://hono.dev/images/logo.svg" alt="Hono" height="44" />
+<img src="https://skillicons.dev/icons?i=go,python,flask,postgres,sqlite" />&nbsp;<img src="https://hono.dev/images/logo.svg" alt="Hono" height="44" />
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=linux,bash,neovim,docker&perline=12" />
+<img src="https://skillicons.dev/icons?i=linux,bash,neovim,docker" />
 
 ## Writing
 - https://blog.aileks.dev/
