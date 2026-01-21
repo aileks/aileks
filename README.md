@@ -6,6 +6,9 @@
 
 Senior at *Arizona State University*. Focused on building systems and backend software that's performant and reliable.
 
+> [!NOTE]  
+> ***All new projects will be hosted on [Codeberg](https://codeberg.org/aileks) going forward!***
+
 ## Stack
 
 #### Systems
