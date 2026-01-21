@@ -15,7 +15,8 @@ Senior at *Arizona State University*. Focused on building systems and backend so
 </div>
 
 > [!NOTE]
-> All future projects are going to [Codeberg](https://codeberg.org/aileks) first (GitHub may be used for mirrors).
+> All future projects are going to [Codeberg](https://codeberg.org/aileks).
+> GitHub may be used for mirrors.
 
 ## Things I Had Fun Building
 
