@@ -20,6 +20,7 @@ Senior at *Arizona State University*. Focused on building systems and backend so
 
 ## Things I Had Fun Building
 
+- [Asteroids Clone](https://github.com/aileks/asteroids) - a redux of the classic original using PyGame.
 - [Realm Sync](https://github.com/aileks/realm-sync) - canon-tracking worldbuilding app: extract entities/facts, flag continuity issues, collaborate in real time. (Live: https://realm-sync.vercel.app)
 - [Book Nexus](https://github.com/aileks/book-nexus) - books database “modu-lith” with a single GraphQL entrypoint + full-text search. (Live: https://booknexus.net)
 - [Quillify](https://github.com/aileks/quillify) - digitize your library / TBR lists and track your collection. (Live: https://quillify-app.com)
