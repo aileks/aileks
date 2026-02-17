@@ -2,15 +2,13 @@
 
 # Hi, I’m Aaliyah
 
-Data-science builder. I like reproducible analysis, clear baselines, and models that survive contact with messy data.
-
 [![Email](https://img.shields.io/badge/Email-9e2a62?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:aaliyah@aileks.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f3f3f?style=for-the-badge&logo=iterm2&logoColor=white)](https://aileks.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=socialblade&logoColor=white)](https://linkedin.com/in/aaliyah-harper/)
 [![Blog](https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=storyblok&logoColor=white)](https://blog.aileks.dev/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/aileks)
 
-Senior at *Arizona State University* studying Data Science. Focused on applied ML, statistical analysis, and data products that hold up outside the notebook.
+Senior at **Arizona State University** studying Data Science. Focused on applied ML, statistical analysis, and data products that hold up outside the notebook.
 
 </div>
 
@@ -26,24 +24,18 @@ Senior at *Arizona State University* studying Data Science. Focused on applied M
 - [Monetrix](https://github.com/aileks/monetrix) - financial data visualization dashboard for quote/trend inspection and technical indicators. (Python, Streamlit)
 - [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform for data-heavy posts and visualizations. (React, Flask, PostgreSQL, Pandas)
 
-## What I Work On
-
-- Applied ML: baseline-first model comparisons, feature engineering, and error analysis.
-- Statistical analysis: EDA, significance testing, and clear interpretation for non-technical readers.
-- Data apps: turning analysis into tools people can actually use.
-
 ## Tools I Reach For
 
 #### Data Science
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,r,julia,postgres,sqlite" />
 
 #### ML / Analysis
 
-`scikit-learn` `pandas` `tidyverse` `plotly` `streamlit` `shiny`
+<img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn logo" />&nbsp;&nbsp;<img src="https://tidyverse.tidyverse.org/logo.png" width=40  title="tidyverse" alt="tidyverse logo" />&nbsp;&nbsp;<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width=40 title="pandas" alt="pandas logo" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiny_hex_logo.svg/1280px-Shiny_hex_logo.svg.png?20240522025655" width=40 title="Shiny" alt="shiny logo" />&nbsp;&nbsp;<img src="https://cdn.brandfetch.io/idwPNp71Xw/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764036938735" width=50 title="Plotly" alt="plotly logo" />&nbsp;&nbsp;<img src="https://github.com/d3/d3-logo/blob/master/d3.svg" width=50 title="D3.js" alt="d3.js logo" />&nbsp;&nbsp;<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width=50 title="Streamlit" alt="streamlit logo" />
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png?20190118024747" width=46 />
 
 <div align="center"><i>Always learning. Always building.</i></div>
