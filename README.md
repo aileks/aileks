@@ -2,7 +2,7 @@
 
 # Hi, I’m Aaliyah
 
-Systems-minded backend builder. I like fast, boring-reliable software and tooling that doesn’t fight back.
+Data-science builder. I like reproducible analysis, clear baselines, and models that survive contact with messy data.
 
 [![Email](https://img.shields.io/badge/Email-9e2a62?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:aaliyah@aileks.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f3f3f?style=for-the-badge&logo=iterm2&logoColor=white)](https://aileks.dev/)
@@ -10,36 +10,40 @@ Systems-minded backend builder. I like fast, boring-reliable software and toolin
 [![Blog](https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=storyblok&logoColor=white)](https://blog.aileks.dev/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/aileks)
 
-Senior at *Arizona State University*. Focused on building systems and backend software that's performant and reliable.
+Senior at *Arizona State University* studying Data Science. Focused on applied ML, statistical analysis, and data products that hold up outside the notebook.
 
 </div>
 
 > [!NOTE]
-> All future projects are going to [Codeberg](https://codeberg.org/aileks).
-> GitHub may be used for mirrors.
+> Most ongoing work lives on [Codeberg](https://codeberg.org/aileks).
+> GitHub hosts selected mirrors and portfolio projects.
 
 ## Things I Had Fun Building
 
-- [Asteroids Clone](https://github.com/aileks/asteroids) - a recreation of the classic Asteroids game, built using PyGame.
-- [Realm Sync](https://github.com/aileks/realm-sync) - canon-tracking worldbuilding app: extract entities/facts, flag continuity issues, collaborate in real time. (Live: https://realm-sync.vercel.app)
-- [Book Nexus](https://github.com/aileks/book-nexus) - books database “modu-lith” with a single GraphQL entrypoint + full-text search. (Live: https://booknexus.net)
-- [Quillify](https://github.com/aileks/quillify) - digitize your library / TBR lists and track your collection. (Live: https://quillify-app.com)
-- [Pomodoro Timer](https://github.com/aileks/pomodoro-timer) - Go CLI + TUI Pomodoro with pause/resume, flags, and notifications. (`go install github.com/aileks/pomodoro-timer/cmd/pomodoro@latest`)
-- [Nexte](https://github.com/aileks/nexte) - basic text editor in C (WIP; mirrored from Codeberg: https://codeberg.org/aileks/nexte)
+- [Spotify Data Analysis](https://github.com/aileks/spotify-data-analysis) - feature engineering vs baseline models on Spotify popularity, with genre-level behavior comparisons. (R, R Markdown)
+- [Exploring Senescence](https://github.com/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes. (R, visualization + inference)
+- [HappyR](https://github.com/aileks/HappyR) - sentiment and emotion analysis app using multiple lexicons with interactive visual summaries. (R, Shiny, tidytext)
+- [Monetrix](https://github.com/aileks/monetrix) - financial data visualization dashboard for quote/trend inspection and technical indicators. (Python, Streamlit)
+- [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform for data-heavy posts and visualizations. (React, Flask, PostgreSQL, Pandas)
 
+## What I Work On
 
-## Things I Use To Build Stuff
+- Applied ML: baseline-first model comparisons, feature engineering, and error analysis.
+- Statistical analysis: EDA, significance testing, and clear interpretation for non-technical readers.
+- Data apps: turning analysis into tools people can actually use.
 
-#### Systems
+## Tools I Reach For
 
-<img src="https://skillicons.dev/icons?i=zig,c" />
+#### Data Science
 
-#### Backend
+<img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />
 
-<img src="https://skillicons.dev/icons?i=go,python,flask,postgres,sqlite" />&nbsp;<img src="https://hono.dev/images/logo.svg" alt="Hono" height="44" />
+#### ML / Analysis
+
+`scikit-learn` `pandas` `tidyverse` `plotly` `streamlit` `shiny`
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=linux,bash,neovim,docker" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git" />
 
 <div align="center"><i>Always learning. Always building.</i></div>
