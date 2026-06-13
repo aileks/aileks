@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=socialblade&logoColor=white)](https://linkedin.com/in/aaliyah-harper/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/aileks)
 
-Senior at **Arizona State University** studying Data Science. Focused on applied ML, statistical analysis, and data products that hold up outside the notebook.
+Senior at **Arizona State University** studying Data Science. Focused on data viz, statistical analysis, and data products that hold up outside the notebook.
 
 </div>
 
