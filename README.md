@@ -15,13 +15,18 @@ Senior at **Arizona State University** studying Data Science. Focused on applied
 > Most ongoing work lives on [Codeberg](https://codeberg.org/aileks).
 > GitHub hosts selected mirrors and portfolio projects.
 
-## Things I Had Fun Building
+## Currently Working On
 
-- [Spotify Data Analysis](https://github.com/aileks/spotify-data-analysis) - feature engineering vs baseline models on Spotify popularity, with genre-level behavior comparisons. (R, R Markdown)
-- [Exploring Senescence](https://github.com/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes. (R, visualization + inference)
-- [HappyR](https://github.com/aileks/HappyR) - sentiment and emotion analysis app using multiple lexicons with interactive visual summaries. (R, Shiny, tidytext)
-- [Monetrix](https://github.com/aileks/monetrix) - financial data visualization dashboard for quote/trend inspection and technical indicators. (Python, Streamlit)
-- [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform for data-heavy posts and visualizations. (React, Flask, PostgreSQL, Pandas)
+- SQL ETL/ELT & data warehousing.
+- Health analytics on SPARC data.
+
+## Things I Had Fun Working On
+
+- [Spotify Data Analysis](https://github.com/aileks/spotify-data-analysis) - feature engineering vs baseline models on Spotify popularity, with genre-level behavior comparisons.
+- [Exploring Senescence](https://github.com/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes.
+- [HappyR](https://github.com/aileks/HappyR) - sentiment and emotion analysis app using multiple lexicons with interactive visual summaries.
+- [Monetrix](https://github.com/aileks/monetrix) - financial data visualization dashboard for quote/trend inspection and technical indicators.
+- [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform for data-heavy posts and visualizations.
 
 ## Tools I Reach For
 
