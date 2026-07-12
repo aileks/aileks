@@ -26,7 +26,7 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 - [Exploring Senescence](https://github.com/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes.
 - [HappyR](https://github.com/aileks/HappyR) - sentiment and emotion analysis app using multiple lexicons with interactive visual summaries.
 - [Monetrix](https://github.com/aileks/monetrix) - financial data visualization dashboard for quote/trend inspection and technical indicators.
-- [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform for data-heavy posts and visualizations.
+- [Statistically Speaking](https://github.com/aileks/statistically-speaking) - social platform concept for data-heavy posts and visualizations.
 
 ## Tools I Reach For
 
