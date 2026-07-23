@@ -5,20 +5,15 @@
 [![Email](https://img.shields.io/badge/Email-9e2a62?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:caspian@aileks.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f3f3f?style=for-the-badge&logo=iterm2&logoColor=white)](https://aileks.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=socialblade&logoColor=white)](https://linkedin.com/in/aaliyah-harper/)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/aileks)
 
 Senior at **Arizona State University** studying Data Science. Focused on data viz, statistical analysis, and data products that hold up outside the notebook.
 
 </div>
 
-> [!NOTE]
-> Most ongoing work lives on [Codeberg](https://codeberg.org/aileks).
-> GitHub hosts selected mirrors and portfolio projects.
-
 ## Currently Working On
 
 - SQL ETL/ELT & data warehousing.
-- Health analytics on SPARC data.
+- Apache Airflow pipelines
 
 ## Things I Had Fun Working On
 
