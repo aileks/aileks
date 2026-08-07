@@ -26,7 +26,7 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Technologies
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="Microsoft SQL Server" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql" />
 
 #### Analysis & Data Viz
 
@@ -34,6 +34,6 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode,azure" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=46 />
+<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=46 />
 
 <div align="center"><i>Always learning. Always building.</i></div>
