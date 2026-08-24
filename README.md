@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Caspian
+# Hi, I’m Kieran
 
 [![Email](https://img.shields.io/badge/Email-9e2a62?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:caspian@aileks.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f3f3f?style=for-the-badge&logo=iterm2&logoColor=white)](https://aileks.dev/)
