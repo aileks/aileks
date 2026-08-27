@@ -16,6 +16,7 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 ## Things I Had Fun Working On
 
+- [Weather Pipeline](https://github.com/aileks/weather-pipeline) - Mateo weather data pipeline with hourly refreshes and anomaly detection.
 - [Spotify Data Analysis](https://github.com/aileks/spotify-data-analysis) - feature engineering vs baseline models on Spotify popularity, with genre-level behavior comparisons.
 - [Exploring Senescence](https://github.com/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes.
 - [HappyR](https://github.com/aileks/HappyR) - sentiment and emotion analysis app using multiple lexicons with interactive visual summaries.
