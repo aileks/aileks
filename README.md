@@ -27,14 +27,15 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Technologies
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />&nbsp;&nbsp;<img alt="dbt-bit-standalone" src="https://github.com/user-attachments/assets/259ffa0b-63e3-455a-8aa8-e53dc8fc5f84" width=50 title="dbt logo" />&nbsp;&nbsp;<img width="50" alt="Dagster icon" src="https://github.com/user-attachments/assets/b569f6fc-b129-4244-8b97-7558156d25cc" title="dagster logo" />
+
 
 #### Analysis & Data Viz
 
-<img src="https://tidyverse.tidyverse.org/logo.png" width=40  title="tidyverse" alt="tidyverse logo" />&nbsp;&nbsp;<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width=40 title="pandas" alt="pandas logo" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiny_hex_logo.svg/1280px-Shiny_hex_logo.svg.png?20240522025655" width=40 title="Shiny" alt="shiny logo" />&nbsp;&nbsp;<img src="https://cdn.brandfetch.io/idwPNp71Xw/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764036938735" width=50 title="Plotly" alt="plotly logo" />&nbsp;&nbsp;<img src="https://github.com/d3/d3-logo/blob/master/d3.svg" width=50 title="D3.js" alt="d3.js logo" />&nbsp;&nbsp;<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width=50 title="Streamlit" alt="streamlit logo" />
+<img src="https://tidyverse.tidyverse.org/logo.png" width=50  title="tidyverse" alt="tidyverse logo" />&nbsp;&nbsp;<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width=50 title="pandas" alt="pandas logo" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiny_hex_logo.svg/1280px-Shiny_hex_logo.svg.png?20240522025655" width=50 title="Shiny" alt="shiny logo" />&nbsp;&nbsp;<img src="https://cdn.brandfetch.io/idwPNp71Xw/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764036938735" width=50 title="Plotly" alt="plotly logo" />&nbsp;&nbsp;<img src="https://github.com/d3/d3-logo/blob/master/d3.svg" width=50 title="D3.js" alt="d3.js logo" />&nbsp;&nbsp;<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width=50 title="Streamlit" alt="streamlit logo" />
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=bash,docker,git,vscode" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=46 />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,neovim" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=50 />
 
 <div align="center"><i>Always learning. Always building.</i></div>
