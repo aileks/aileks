@@ -36,6 +36,6 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,neovim" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=50 />
+<img src="https://skillicons.dev/icons?i=nix,bash,docker,git,neovim" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=50 />
 
 <div align="center"><i>Always learning. Always building.</i></div>
