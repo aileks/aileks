@@ -27,7 +27,8 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Technologies
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />&nbsp;&nbsp;<img alt="dbt-bit-standalone" src="https://github.com/user-attachments/assets/259ffa0b-63e3-455a-8aa8-e53dc8fc5f84" width=50 title="dbt logo" />&nbsp;&nbsp;<img width="50" alt="Dagster icon" src="https://github.com/user-attachments/assets/b569f6fc-b129-4244-8b97-7558156d25cc" title="dagster logo" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />&nbsp;&nbsp;<img alt="dbt-bit-standalone" src="https://github.com/user-attachments/assets/259ffa0b-63e3-455a-8aa8-e53dc8fc5f84" width=50 title="dbt logo" />&nbsp;&nbsp;<img width="50" alt="Dagster icon" src="https://github.com/user-attachments/assets/b569f6fc-b129-4244-8b97-7558156d25cc" title="Dagster logo" />&nbsp;&nbsp;<img width="45" alt="Apache Airflow" src="https://github.com/user-attachments/assets/9e588f8b-74f7-4e1b-81da-d10da6a8c37b" title="Apache Airflow logo" />
+
 
 
 #### Analysis & Data Viz
@@ -36,6 +37,6 @@ Senior at **Arizona State University** studying Data Science. Focused on data vi
 
 #### Tooling
 
-<img src="https://skillicons.dev/icons?i=nix,bash,docker,git,neovim" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=50 />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,neovim" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" width=50 />
 
 <div align="center"><i>Always learning. Always building.</i></div>
