@@ -15,7 +15,7 @@
 
 ## Things I Had Fun Working On
 
-- [Brainlet](https://codeberg.org/aileks/Brainlet) - A neural network developed and implemented from first principles.
+- [Brainlet](https://codeberg.org/aileks/Brainlet) - A neural network developed and implemented from first principles with a branch for each stage of its capabilities.
 - [C-MD5](https://codeberg.org/aileks/c-md5) - A re-implementation of the MD5 hashing algorithm from scratch following the specification.
 - [Spotify Data Analysis](https://codeberg.org/aileks/spotify-data-analysis) - feature engineering vs baseline models on Spotify popularity, with genre-level behavior comparisons.
 - [Exploring Senescence](https://codeberg.org/aileks/exploring-senescence) - statistical analysis of GenAge data to study aging-biomarker patterns and hypothesis-test outcomes.
